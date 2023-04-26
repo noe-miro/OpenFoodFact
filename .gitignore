@@ -1,5 +1,5 @@
 images/
-embeddings/
+emb_raw.pckl
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
