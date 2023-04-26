@@ -4,3 +4,4 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 mobilevit_s_1k_256_1/
+df_similarity.pckl
